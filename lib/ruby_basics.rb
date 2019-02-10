@@ -20,7 +20,8 @@ puts "Nice"
 end
 
 def last_evaluated_value
-puts "expert"
+n = "expert"
+n
 end
 
 def pizza_party
