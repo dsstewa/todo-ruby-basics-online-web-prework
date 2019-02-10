@@ -25,7 +25,6 @@ n = "expert"
 n
 end
 
-def pizza_party
-n = "cheese"
+def pizza_party(n = "cheese")
 n
 end
