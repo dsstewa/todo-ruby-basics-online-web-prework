@@ -26,5 +26,6 @@ n
 end
 
 def pizza_party
-
+n = "cheese"
+n
 end
