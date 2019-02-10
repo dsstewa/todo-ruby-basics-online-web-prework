@@ -11,7 +11,7 @@ def argue(hello)
   hello
 end
 
-def greeting
+def greeting(hello,bye)
 
 end
 
